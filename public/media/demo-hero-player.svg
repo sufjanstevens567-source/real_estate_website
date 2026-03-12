@@ -1,0 +1,23 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Replace this placeholder with the final 16:9 demo video poster or embedded player thumbnail. -->
+  <rect width="1600" height="900" fill="#ECE2D7"/>
+  <rect x="34" y="34" width="1532" height="832" rx="18" fill="#F7F1EA"/>
+  <rect x="74" y="74" width="1452" height="78" rx="14" fill="#E6DDD2"/>
+  <circle cx="126" cy="113" r="14" fill="#D4C5B7"/>
+  <circle cx="174" cy="113" r="14" fill="#D4C5B7"/>
+  <circle cx="222" cy="113" r="14" fill="#D4C5B7"/>
+  <rect x="74" y="176" width="1452" height="516" rx="18" fill="#80978C"/>
+  <path d="M74 541L281 385L443 500L693 312L954 541L1204 406L1526 661V692H74V541Z" fill="#CAD4CD"/>
+  <rect x="128" y="258" width="292" height="42" rx="21" fill="#EFE6DC"/>
+  <rect x="128" y="337" width="418" height="22" rx="11" fill="#EFE6DC" opacity="0.92"/>
+  <rect x="128" y="380" width="338" height="22" rx="11" fill="#EFE6DC" opacity="0.88"/>
+  <circle cx="1430" cy="286" r="58" fill="#284A3B" opacity="0.16"/>
+  <circle cx="1430" cy="286" r="40" fill="#284A3B"/>
+  <path d="M1414 260L1455 286L1414 312V260Z" fill="#F7F1EA"/>
+  <rect x="74" y="722" width="1452" height="104" rx="18" fill="#E7DFD5"/>
+  <rect x="128" y="754" width="494" height="22" rx="11" fill="#284A3B"/>
+  <rect x="128" y="794" width="664" height="18" rx="9" fill="#6A776F"/>
+  <rect x="1196" y="735" width="248" height="76" rx="18" fill="#E2D8CB"/>
+  <rect x="1256" y="764" width="128" height="22" rx="11" fill="#284A3B"/>
+  <rect x="1256" y="799" width="96" height="16" rx="8" fill="#6A776F"/>
+</svg>
