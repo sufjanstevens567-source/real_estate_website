@@ -106,7 +106,7 @@ export function HeroSection() {
               <Link href="#demo" className="hero-desktop-rail" aria-label="Discover more about the demo">
                 <span className="hero-desktop-railLabel">Discover More</span>
                 <span className="hero-desktop-railLine" />
-                <ArrowDown className="h-10 w-10 shrink-0" strokeWidth={1.3} />
+                <ArrowDown className="h-5 w-5 shrink-0 -mt-1" strokeWidth={1.5} />
               </Link>
 
               <p className="hero-desktop-lead">

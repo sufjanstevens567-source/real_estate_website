@@ -30,9 +30,9 @@ export function Header() {
             <span className="text-[1.55rem] font-medium uppercase tracking-[-0.01em] sm:text-[1.75rem]">
               MENU
             </span>
-            <span className="grid h-[6.8rem] w-[6.8rem] place-items-center rounded-full bg-[#f7f0df] text-[#7c5236] shadow-none sm:h-[7.2rem] sm:w-[7.2rem]">
+            <span className="grid h-[5.2rem] w-[5.2rem] place-items-center rounded-full bg-[#f7f0df] text-[#7c5236] shadow-none sm:h-[5.8rem] sm:w-[5.8rem]">
               <span className="sr-only">Toggle menu</span>
-              {open ? <X className="h-5 w-5" strokeWidth={1.6} /> : <Menu className="h-5 w-5" strokeWidth={1.6} />}
+              {open ? <X className="h-7 w-7" strokeWidth={2.5} /> : <Menu className="h-7 w-7" strokeWidth={2.5} />}
             </span>
           </button>
 

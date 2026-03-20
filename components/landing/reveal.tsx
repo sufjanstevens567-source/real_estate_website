@@ -1,10 +1,25 @@
 "use client";
 
 import { motion, useReducedMotion } from "framer-motion";
-import type { HTMLAttributes, PropsWithChildren } from "react";
+import type { ComponentPropsWithoutRef, PropsWithChildren } from "react";
+
+type NativeDivProps = Omit<
+  ComponentPropsWithoutRef<"div">,
+  | "onAnimationStart"
+  | "onAnimationEnd"
+  | "onAnimationIteration"
+  | "onDrag"
+  | "onDragEnd"
+  | "onDragEnter"
+  | "onDragExit"
+  | "onDragLeave"
+  | "onDragOver"
+  | "onDragStart"
+  | "onDrop"
+>;
 
 type RevealProps = PropsWithChildren<
-  HTMLAttributes<HTMLDivElement> & {
+  NativeDivProps & {
     delay?: number;
     y?: number;
   }
@@ -40,4 +55,3 @@ export function Reveal({
     </motion.div>
   );
 }
-
